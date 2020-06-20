@@ -1,0 +1,82 @@
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe.config
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.Properties.Resources.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.KullaniciGirisi.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.GenerateResource.Cache
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.pdb
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.exe
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.pdb
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.PersonelEkrani.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.ArizaDetay.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.BilgiIslemYonetici.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.yoneticiArizaDetay.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.PersonelAtama.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.KullaniciDetay.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.BilgiIslemPersonel.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.CozumMesajıEkle.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.YoneticiEkrani.resources
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.dll
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\itextsharp.dll
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.xml
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ferdi KENDIR\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.ResolveComReference.cache
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csprojAssemblyReference.cache
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.ResolveComReference.cache
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.Properties.Resources.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.ArizaDetay.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.BilgiIslemPersonel.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.BilgiIslemYonetici.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.CozumMesajıEkle.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.KullaniciDetay.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.KullaniciGirisi.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.PersonelAtama.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.PersonelEkrani.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.yoneticiArizaDetay.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.YoneticiEkrani.resources
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.GenerateResource.cache
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.exe
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.pdb
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe.config
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.pdb
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.dll
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.pdb
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.xml
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Kerem\Desktop\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.CopyComplete
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe.config
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.ResolveComReference.cache
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.exe
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.pdb
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.pdb
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.dll
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\itextsharp.dll
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.pdb
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.xml
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csprojResolveAssemblyReference.cache
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.Properties.Resources.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.ArizaDetay.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.BilgiIslemPersonel.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.BilgiIslemYonetici.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.CozumMesajıEkle.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.KullaniciDetay.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.KullaniciGirisi.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.PersonelAtama.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.PersonelEkrani.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.yoneticiArizaDetay.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.View.YoneticiEkrani.resources
+C:\Users\Ferdi KENDIR\Downloads\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.GenerateResource.Cache
+E:\19-20_GUZ\Software_Engineering\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\bin\Debug\ArizaTakipYazılımSistemi.exe.config
+E:\19-20_GUZ\Software_Engineering\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.csproj.ResolveComReference.cache
+E:\19-20_GUZ\Software_Engineering\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.exe
+E:\19-20_GUZ\Software_Engineering\ArizaTakipYazılımSistemi\ArizaTakipYazılımSistemi\obj\Debug\ArizaTakipYazılımSistemi.pdb
